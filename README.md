@@ -1,4 +1,4 @@
-# Data-Visualization-Tableau
+# Bootcamp_practica_Data Visualization Tableau
 Hands-on exercise for the Data Visualization and Analysis module with Tableau, for the "Mujeres en Tech" Bootcamp, KeepCoding &amp; Glovo. 
 
 I created a Dashboard with three views, to show data on Airbnb rentals in the city of Madrid. 
